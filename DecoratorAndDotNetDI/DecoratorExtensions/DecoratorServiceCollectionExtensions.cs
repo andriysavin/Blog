@@ -1,3 +1,13 @@
+/*
+ * Copyright (c) 2026 Andriy Savin
+ *
+ * This code is licensed under the MIT License.
+ * See the LICENSE file in the repository root for full license text.
+ * 
+ * Attribution is appreciated when reusing this code.
+ * 
+ */
+
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
